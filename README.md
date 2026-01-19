@@ -1,4 +1,8 @@
 # monzo-dailyallowance
+
+> **⚠️ ARCHIVED**: This repository is archived and no longer supported. Monzo has since released native features like [Salary Sorter and Bills Pots](https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots/) that supersede this project.
+
+> **📝 Blog**: See more projects at [sealjay.com](https://sealjay.com)
 This was an example of using Logic Apps in Microsoft Azure to give yourself a daily allowance, and automate saving.
 This is no longer required with the Monzo Release of [salary sorter and bills pots](https://monzo.com/blog/2019/09/26/introducing-salary-sorter-and-bills-pots/).
 
